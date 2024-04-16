@@ -1,4 +1,9 @@
 ### Hi there 👋
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://images.credly.com/images/ca26b8dd-a549-4082-a042-f54c75b1457f/CERT-Expert-Dynamics365-Finance-and-Operations-Apps-Solution-Architect.png" alt="Cert 1" width="200" height="200">
+    <img src="https://images.credly.com/size/340x340/images/4bb5cacb-fdc4-4a57-bdce-938d6d67b739/CERT-Associate-Dynamics365-Supply-Chain-Management-Functional-Consultant.png" alt="Cert 2" width="200" height="200">
+</div>
+
 
 <!--
 **zhenyu-captain/zhenyu-captain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
