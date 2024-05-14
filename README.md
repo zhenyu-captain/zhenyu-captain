@@ -6,7 +6,10 @@
     <img src="https://images.credly.com/size/680x680/images/8b943c4b-c186-4e9f-84aa-004322b76eed/image.png" alt="Cert 2" width="150" height="150">
     <img src="https://images.credly.com/images/24c75efb-9a99-47f7-ab6d-fcd359534c1e/badge-togaf9-certified.png" alt="Cert 2" width="150" height="150">
     <img src="https://images.credly.com/images/57bb7f6a-441f-4356-a2f1-7693227a475e/image.png" alt="Cert 2" width="150" height="150">
-
+    <img src="https://images.credly.com/images/d8b54d17-692a-4151-8e2e-e3c8c1a89ec1/b415cf50edc1955df11b9046c68b7e2debbd41f1.png" alt="Cert 2" width="150" height="150">
+    <img src="https://images.credly.com/images/d0891dee-6360-496c-9981-40652523b502/dbdea6794f1a6bbcc18d90eea923421aac7df6b5.png" alt="Cert 2" width="150" height="150">
+    <img src="https://images.credly.com/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png" alt="Cert 2" width="150" height="150">
+    <img src="https://images.credly.com/images/9e1bf845-1d7e-488b-abc9-3268b03cbff8/COBIT_5_-_Foundation_600px.png" alt="Cert 2" width="150" height="150">
 </div>
 
 
