@@ -3,6 +3,7 @@
     <img src="https://images.credly.com/images/ca26b8dd-a549-4082-a042-f54c75b1457f/CERT-Expert-Dynamics365-Finance-and-Operations-Apps-Solution-Architect.png" alt="Cert 1" width="200" height="200">
     <img src="https://images.credly.com/size/340x340/images/4bb5cacb-fdc4-4a57-bdce-938d6d67b739/CERT-Associate-Dynamics365-Supply-Chain-Management-Functional-Consultant.png" alt="Cert 2" width="200" height="200">
     <img src="https://images.credly.com/images/57bb7f6a-441f-4356-a2f1-7693227a475e/image.png" alt="Cert 2" width="200" height="200">
+    <img src="https://images.credly.com/images/260e36dc-d100-45c3-852f-9d8063fa71e6/pmp-600px.png" alt="Cert 2" width="200" height="200">
     
 </div>
 
