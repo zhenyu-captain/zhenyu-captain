@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div style="display: flex; justify-content: space-between;">
+<!-- <div style="display: flex; justify-content: space-between;">
     <img src="https://images.credly.com/images/ca26b8dd-a549-4082-a042-f54c75b1457f/CERT-Expert-Dynamics365-Finance-and-Operations-Apps-Solution-Architect.png" alt="Cert 1" width="150" height="150">
     <img src="https://images.credly.com/size/340x340/images/4bb5cacb-fdc4-4a57-bdce-938d6d67b739/CERT-Associate-Dynamics365-Supply-Chain-Management-Functional-Consultant.png" alt="Cert 2" width="150" height="150">
     <img src="https://images.credly.com/images/260e36dc-d100-45c3-852f-9d8063fa71e6/pmp-600px.png" alt="Cert 2" width="150" height="150">
@@ -10,7 +10,7 @@
     <img src="https://images.credly.com/images/d0891dee-6360-496c-9981-40652523b502/dbdea6794f1a6bbcc18d90eea923421aac7df6b5.png" alt="Cert 2" width="150" height="150">
     <img src="https://images.credly.com/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png" alt="Cert 2" width="150" height="150">
     <img src="https://images.credly.com/images/9e1bf845-1d7e-488b-abc9-3268b03cbff8/COBIT_5_-_Foundation_600px.png" alt="Cert 2" width="150" height="150">
-</div>
+</div> -->
 
 
 <!--
